@@ -1,0 +1,999 @@
+
+    
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    <!-- http://dbpedia.org/ontology/Actor -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Actor">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/actor"/>
+    </owl:Class>
+
+    <!-- http://dbpedia.org/ontology/Agent -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Agent">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/agent"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Airport -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Airport">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/airport"/>
+    </owl:Class>
+    
+    <!-- http://dbpedia.org/ontology/Amphibian -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Amphibian">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/amphibian"/>
+    </owl:Class>
+    
+    <!-- http://dbpedia.org/ontology/Animal -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Animal">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/animal"/>
+    </owl:Class>
+   
+    <!-- http://dbpedia.org/ontology/Arachnid -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Arachnid">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/arachnid"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/Archaea -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Archaea">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/archaea"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Architect -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Architect">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/architect"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/Artery -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Artery">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/artery"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Astronaut -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Astronaut">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/astronaut"/>
+    </owl:Class>
+    
+    
+
+
+    <!-- http://dbpedia.org/ontology/Athlete -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Athlete">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/athlete"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/AutomobileEngine -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/AutomobileEngine">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/automobileengine"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/Bacteria -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Bacteria">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/bacteria"/>
+    </owl:Class>
+   
+     <!-- http://dbpedia.org/ontology/Bank -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Bank">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/Bank"/>
+    </owl:Class>
+
+
+    <!-- http://dbpedia.org/ontology/Beverage -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Beverage">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/beverage"/>
+    </owl:Class>
+   
+  <!-- http://dbpedia.org/ontology/Beach -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Beach">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/beach"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Bird -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Bird">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/bird"/>
+    </owl:Class>
+  
+
+
+    <!-- http://dbpedia.org/ontology/BoardGame -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/BoardGame">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/boardgame"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Bone -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Bone">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/bone"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Book -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Book">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/book"/>
+    </owl:Class>
+  
+
+    <!-- http://dbpedia.org/ontology/Bridge -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Bridge">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/bridge"/>
+    </owl:Class>
+   
+    
+
+    <!-- http://dbpedia.org/ontology/Building -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Building">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/building"/>
+    </owl:Class>
+   
+    
+    <!-- http://dbpedia.org/ontology/Cave -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Cave">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/cave"/>
+    </owl:Class>
+   
+    <!-- http://dbpedia.org/ontology/CardGame -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/CardGame">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/cardgame"/>
+    </owl:Class> 
+    
+
+    <!-- http://dbpedia.org/ontology/Celebrity -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Celebrity">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/celebrity"/>
+    </owl:Class>
+   
+   
+
+    <!-- http://dbpedia.org/ontology/Cheese -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Cheese">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/cheese"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/Chef -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Chef">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/chef"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/Coach -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Coach">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/coach"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Colour -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Colour">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/color"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Comedian -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Comedian">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/comedian"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/Company -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Company">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/company"/>
+    </owl:Class>
+    
+    
+
+
+    <!-- http://dbpedia.org/ontology/Continent -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Continent">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/continent"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Convention -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Convention">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/convention"/>
+    </owl:Class>
+  
+  
+      <!-- http://dbpedia.org/ontology/Country -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Country">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/country"/>
+    </owl:Class>
+  
+
+
+    <!-- http://dbpedia.org/ontology/Criminal -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Criminal">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/criminal"/>
+    </owl:Class>
+   
+     <!-- http://dbpedia.org/ontology/CreativeWork -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/CreativeWork">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/creativework"/>
+    </owl:Class> 
+
+
+    <!-- http://dbpedia.org/ontology/Crustacean -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Crustacean">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/crustacean"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Currency -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Currency">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/currency"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Disease -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Disease">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/disease"/>
+    </owl:Class>
+    
+
+  <!-- http://dbpedia.org/ontology/NaturalEvent -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/NaturalEvent">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/weatherphenomenon"/>
+    </owl:Class>
+
+
+    
+
+    <!-- http://dbpedia.org/ontology/City -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/City">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/city"/>
+    </owl:Class>
+
+    <!-- http://dbpedia.org/ontology/Drug -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Drug">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/drug"/>
+    </owl:Class>
+   
+
+	 <!-- http://dbpedia.org/ontology/Earthquake -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Earthquake">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/earthquakeevent"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Election -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Election">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/election"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/EthnicGroup -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/EthnicGroup">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/ethnicgroup"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Event -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Event">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/event"/>
+    </owl:Class>
+ 
+    
+
+
+    <!-- http://dbpedia.org/ontology/Film -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Film">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/movie"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/FilmFestival -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/FilmFestival">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/filmfestival"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Fish -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Fish">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/fish"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Food -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Food">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/food"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Fungus -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Fungus">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/fungus"/>
+    </owl:Class>
+  
+    
+
+    <!-- http://dbpedia.org/ontology/Game -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Game">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/game"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/GeopoliticalOrganisation -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/GeopoliticalOrganisation">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/geopoliticalorganization"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/GrandPrix -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/GrandPrix">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/grandprix"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Hospital -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Hospital">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/hospital"/>
+    </owl:Class>
+   
+    
+
+    <!-- http://dbpedia.org/ontology/Hotel -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Hotel">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/hotel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Insect -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Insect">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/insect"/>
+    </owl:Class>
+  
+    
+    <!-- http://dbpedia.org/ontology/Island -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Island">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/island"/>
+    </owl:Class>
+ 
+
+    <!-- http://dbpedia.org/ontology/Journalist -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Journalist">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/journalist"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Judge -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Judge">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/judge"/>
+    </owl:Class>
+   
+    
+    <!-- http://dbpedia.org/ontology/Lake -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Lake">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/lake"/>
+    </owl:Class>
+    
+
+<!-- http://dbpedia.org/ontology/Language -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Language">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/language"/>
+    </owl:Class>
+
+
+    <!-- http://dbpedia.org/ontology/Magazine -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Magazine">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/magazine"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Mammal -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Mammal">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/mammal"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/MilitaryConflict -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MilitaryConflict">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/militaryconflict"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/Model -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Model">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/model"/>
+    </owl:Class>
+    
+    
+
+
+    <!-- http://dbpedia.org/ontology/Mollusca -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Mollusca">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/mollusk"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/Monarch -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Monarch">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/monarch"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Monument -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Monument">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/monument"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Mountain -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Mountain">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/mountain"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/MountainRange -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MountainRange">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/mountainrange"/>
+    </owl:Class>
+   
+   
+    <!-- http://dbpedia.org/ontology/Movie -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Movie">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/movie"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Muscle -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Muscle">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/muscle"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Museum -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Museum">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/museum"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/MusicFestival -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MusicFestival">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/musicfestival"/>
+    </owl:Class>
+   
+
+
+<!-- http://dbpedia.org/ontology/MusicalAlbum -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MusicAlbum">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/musicalbum"/>
+    </owl:Class>
+
+
+    <!-- http://dbpedia.org/ontology/MusicGenre -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MusicGenre">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/musicgenre"/>
+    </owl:Class>
+   
+   
+   
+    <!-- http://dbpedia.org/ontology/Nerve -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Nerve">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/nerve"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Newspaper -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Newspaper">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/newspaper"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Non-ProfitOrganisation -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Non-ProfitOrganisation">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/nonprofitorganization"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Olympics -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Olympics">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/olympics"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/Organisation -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Organisation">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/organization"/>
+    </owl:Class>
+     
+  
+    <!-- http://dbpedia.org/ontology/Product -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Product">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/product"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/Park -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Park">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/park"/>
+    </owl:Class>
+  
+
+    <!-- http://dbpedia.org/ontology/Person -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Person">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/person"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Planet -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Planet">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/planet"/>
+    </owl:Class>
+
+
+    <!-- http://dbpedia.org/ontology/Plant -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Plant">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/plant"/>
+    </owl:Class>
+  
+    
+
+
+    <!-- http://dbpedia.org/ontology/Poem -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Poem">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/poem"/>
+    </owl:Class>
+   
+   
+
+    <!-- http://dbpedia.org/ontology/PoliticalParty -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/PoliticalParty">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/politicalparty"/>
+    </owl:Class>
+    
+    
+
+
+    <!-- http://dbpedia.org/ontology/Politician -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Politician">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/politician"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Port -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Port">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/port"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Profession -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Profession">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/profession"/>
+    </owl:Class>
+    
+    
+    <!-- http://dbpedia.org/ontology/Professor -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Professor">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/professor"/>
+    </owl:Class>
+   
+    <!-- http://dbpedia.org/ontology/Protein -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Protein">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/protein"/>
+    </owl:Class>
+   
+    
+ 
+
+    <!-- http://dbpedia.org/ontology/Race -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Race">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/race"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/RadioStation -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/RadioStation">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/radiostation"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/RecordLabel -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/RecordLabel">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/recordlabel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://dbpedia.org/ontology/Reptile -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Reptile">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/reptile"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/ResearchProject -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/ResearchProject">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/researchproject"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/Restaurant -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Restaurant">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/restaurant"/>
+    </owl:Class>
+  
+
+
+    <!-- http://dbpedia.org/ontology/River -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/River">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/river"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/School -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/School">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/school"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Scientist -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Scientist">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/scientist"/>
+    </owl:Class>
+   
+    
+
+
+    <!-- http://dbpedia.org/ontology/ShoppingMall -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/ShoppingMall">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/shoppingmall"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/SkiArea -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/SkiArea">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/skiarea"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Skyscraper -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Skyscraper">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/skyscraper"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/Software -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Software">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/software"/>
+    </owl:Class>
+  
+
+
+    <!-- http://dbpedia.org/ontology/Species -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Species">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/species"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Sport -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Sport">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/sport"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/SportsEvent -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/SportsEvent">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/sportsevent"/>
+    </owl:Class>
+   
+
+
+    <!-- http://dbpedia.org/ontology/SportsLeague -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/SportsLeague">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/sportsleague"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/SportsTeam -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/SportsTeam">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/sportsteam"/>
+    </owl:Class>
+  
+
+    <!-- http://dbpedia.org/ontology/Street -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Street">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/street"/>
+    </owl:Class>
+    
+    
+        <!-- Matched from Unmapped: http://dbpedia.org/ontology/Stadium -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Stadium">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/stadiumoreventvenue"/>
+    </owl:Class>
+
+	  <!-- Matched from Unmapped:http://dbpedia.org/ontology/RailwayStation -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/RailwayStation">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/trainstation"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/TeamMember -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/TeamMember">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/teammember"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/TelevisionShow -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/TelevisionShow">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/televisionshow"/>
+    </owl:Class>
+    
+    
+    <!-- http://dbpedia.org/ontology/TelevisionStation -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/TelevisionStation">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/televisionstation"/>
+    </owl:Class>
+   
+   
+
+    <!-- http://dbpedia.org/ontology/TradeUnion -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/TradeUnion">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/tradeunion"/>
+    </owl:Class>
+   
+    
+    <!-- http://dbpedia.org/ontology/University -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/University">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/university"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/Vein -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Vein">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/vein"/>
+    </owl:Class>
+   
+    
+
+    <!-- http://dbpedia.org/ontology/VideoGame -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/VideoGame">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/videogame"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Weapon -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Weapon">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/weapon"/>
+    </owl:Class>
+    
+    <!-- http://dbpedia.org/ontology/MusicalArtist -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MusicalArtist">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/musicartist"/>
+    </owl:Class>
+    
+    
+    <owl:Class rdf:about="http://site-lod-crew.fr/nell/ontology/highway">
+    	<owl:equivalentClass rdf:resource="http://dbpedia.org/ontology/Road"/>
+	</owl:Class>
+    
+    
+  <owl:Class rdf:resource="http://dbpedia.org/ontology/TimePeriod">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/time"/>
+    </owl:Class>
+ 
+
+
+    <!-- http://dbpedia.org/ontology/Website -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Website">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/website"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Wine -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Wine">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/wine"/>
+    </owl:Class>
+    
+    <!-- http://dbpedia.org/ontology/Winery -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Winery">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/winery"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/Writer -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Writer">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/writer"/>
+    </owl:Class>
+   
+
+<!-- http://dbpedia.org/ontology/Year -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Year">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/year"/>
+    </owl:Class>
+    
+
+    <!-- http://dbpedia.org/ontology/Zoo -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Zoo">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/zoo"/>
+    </owl:Class>
+   

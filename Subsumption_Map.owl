@@ -1,0 +1,62 @@
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+	
+    <!-- http://dbpedia.org/ontology/MovieDirector -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MovieDirector">
+        <rdfs:subClassOf rdf:resource="http://site-lod-crew.fr/nell/ontology/director"/>
+    </owl:Class>
+    
+    <owl:Class rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding">
+        <rdfs:subClassOf rdf:resource="http://site-lod-crew.fr/nell/ontology/placeofworship"/>
+    </owl:Class>
+        
+  <!--  http://dbpedia.org/ontology/Province -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Province">
+        <rdfs:subClassOf rdf:resource="http://site-lod-crew.fr/nell/ontology/stateorprovince"/>
+    </owl:Class>
+  
+  <!-- : http://dbpedia.org/ontology/State -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/State">
+        <rdfs:subClassOf rdf:resource="http://site-lod-crew.fr/nell/ontology/stateorprovince"/>
+    </owl:Class>
+    
+    <!--  http://dbpedia.org/ontology/ChemicalSubstance -->
+        
+    <owl:Class rdf:resource="http://site-lod-crew.fr/nell/ontology/ChemicalSubstance">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/chemical"/>
+    </owl:Class>
+
+ <!-- http://dbpedia.org/ontology/MusicalArtist -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/ClassicalMusicArtist">
+        <rdfs:subClassOf rdf:resource="http://site-lod-crew.fr/nell/ontology/musicalrtist"/>
+    </owl:Class>
+
+
+  <!-- http://dbpedia.org/ontology/AmsementParkAttraction --> 
+  
+ 	<owl:Class rdf:resource="http://dbpedia.org/ontology/AmsementParkAttraction">
+        <rdfs:subClassOf rdf:resource="http://site-lod-crew.fr/nell/ontology/attraction"/>
+    </owl:Class>
+    
+    
+  <!-- http://dbpedia.org/ontology/MusicComposer --> 
+ 	<owl:Class rdf:resource="http://dbpedia.org/ontology/MusicComposer">
+        <rdfs:subClassOf rdf:resource="http://site-lod-crew.fr/nell/ontology/musician"/>
+    </owl:Class>
+ 
+ 
+ <owl:Class rdf:resource="http://dbpedia.org/ontology/Singer">
+        <rdfs:subClassOf rdf:resource="http://site-lod-crew.fr/nell/ontology/musician"/>
+    </owl:Class>
+
+</rdf:RDF>
