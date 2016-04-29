@@ -1,0 +1,46 @@
+    
+ <!-- http://dbpedia.org/ontology/MountainPass -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MountainPass">
+    	<owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/mountain"/>
+    </owl:Class>
+    
+    
+    <!-- http://dbpedia.org/ontology/MovieDirector -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/MovieDirector">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/director"/>
+    </owl:Class>
+    
+    <!-- http://dbpedia.org/ontology/Painter -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Painter">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/male"/>
+    </owl:Class>
+     
+     
+    <!-- http://dbpedia.org/ontology/Publisher -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Publisher">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/publication"/>
+    </owl:Class>
+   
+    <!-- http://dbpedia.org/ontology/RouteOfTransportation -->
+    
+    <owl:Class rdf:about="http://dbpedia.org/ontology/RouteOfTransportation">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/transportation"/>
+    </owl:Class>
+   
+
+    <!-- http://dbpedia.org/ontology/SportsTeam-->
+    
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Automobile">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/automobileengine "/>
+    </owl:Class>
+
+
+    <!-- http://dbpedia.org/ontology/SportsTeam-->
+    
+    <owl:Class rdf:about="http://dbpedia.org/ontology/Musical">
+        <owl:equivalentClass rdf:resource="http://site-lod-crew.fr/nell/ontology/musicalbum  "/>
+    </owl:Class>
