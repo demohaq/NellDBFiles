@@ -1,0 +1,39 @@
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/placeOfworship">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/religiousplaceofworship"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/religion">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/religionsuchasreligions"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/movie">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/moviessuchasmovies"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/touristicSite">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/touristattractionsuchastouristattractions"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/countryWithFirstSpaceFlight">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/countriessuchascountries"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/countryWithFirstSatellite">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/countriessuchascountries"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/countryWithFirstSpaceAstronaut">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/countriessuchascountries"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/country">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/countriessuchascountries"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/sovereignCountry">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/countriessuchascountries"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/twinCountry">
+	<owl:equivalentProperty rdf:resource="http://site-lod-crew.fr/nell/ontology/countriessuchascountries"/>
+</owl:ObjectProperty>
