@@ -1,0 +1,370 @@
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateOfBurial">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/weddingParentsDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/serviceEndDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/firstAirDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/lastLaunchDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/releaseDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/openingDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dissolutionDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/formationDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/modelStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/commissionerDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/functionDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/endDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/lastPublicationDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/orderDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/lastFlightStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/restoreDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/buildingEndDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/beatifiedDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/firstPublicationDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/productionEndDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/firstFlightStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/firstFlightEndtDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/shareDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/captureDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/deliveryDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/retirementDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/floodingDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/buildingStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/lastFlightStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/productionStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/mergerDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/suppreddedDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateOfAbandonment">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/launchDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/functionStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/serviceStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/activeYearsEndDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/airDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/canonizedDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/ithfDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/christeningDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/europeanUnionEntranceDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/coronationDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateLastUpdated">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/deathDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/acquirementDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/foundingDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/latestReleaseDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/notifydate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateBudget">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/lastAirDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/rebuildDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateUnveiled">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/arrestDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/landingDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/completionDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/birthDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/titleDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/publicationDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/areaDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/projectEndDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateAgreement">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/projectStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/recordDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/activeYearsStartDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/lastElectionDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/dateConstruction">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/liberationDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/argueDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateCompleted">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/populationDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/finalPublicationDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/extinctionDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/firstFlightEndDate/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/suppreddedDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/convictionDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/startDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/rebuildingDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/decommissioningDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/commissioningDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/introductionDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/disappearanceDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/cloningDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/destructionDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/decideDate">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateClosed">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/dateClosed">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atdate"/>
+</owl:DataTypeProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/locationCity">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atlocation"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/locationCountry">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/atlocation"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/ncaaTeam">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/sportsteam"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://dbpedia.org/ontology/nflTeam">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/sportsteam"/>
+</owl:ObjectProperty>
+
+<owl:DataTypeProperty rdf:about="http://dbpedia.org/ontology/currentTeamMember">
+	<rdfs:subPropertyOf rdf:resource="http://site-lod-crew.fr/nell/ontology/teammember"/>
+</owl:DataTypeProperty>
